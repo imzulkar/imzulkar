@@ -57,4 +57,4 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imzulkar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
-![GitHub metrics](https://metrics.lecoq.io/nhridoy)
+![GitHub metrics](https://metrics.lecoq.io/imzulkar)
