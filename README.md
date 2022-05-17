@@ -50,11 +50,11 @@
 <h3 align="left">📊 My Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imzulkar&show_icons=true&theme=dark&locale=en&layout=compact" alt="nhridoy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imzulkar&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=0775d5&locale=en" alt="nhridoy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imzulkar&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=0775d5&locale=en" alt="imzulkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imzulkar&theme=highcontrast" alt="nhridoy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imzulkar&theme=highcontrast" alt="imzulkar" /></p>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nhridoy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imzulkar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ![GitHub metrics](https://metrics.lecoq.io/nhridoy)
