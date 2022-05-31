@@ -52,7 +52,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imzulkar&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=0775d5&locale=en" alt="imzulkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imzulkar&theme=highcontrast" alt="imzulkar" /></p>
+#<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imzulkar&theme=highcontrast" alt="imzulkar" /></p>
 
 
-![GitHub metrics](https://metrics.lecoq.io/imzulkar)
+#![GitHub metrics](https://metrics.lecoq.io/imzulkar)
