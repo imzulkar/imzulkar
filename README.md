@@ -55,4 +55,3 @@
 #<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imzulkar&theme=highcontrast" alt="imzulkar" /></p>
 
 
-#![GitHub metrics](https://metrics.lecoq.io/imzulkar)
