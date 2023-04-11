@@ -14,8 +14,6 @@
 
 - 👯 I’m looking to collaborate on **Any Project**
 
-- 🤝 I’m looking for help with a **Software Developer Job**
-
 - 👨‍💻 All of my projects are available at [https://github.com/imzulkar](https://github.com/imzulkar)
 
 - 💬 Ask me about **Anything**
