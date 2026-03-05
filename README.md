@@ -11,7 +11,7 @@
 🤝 Open to collaboration on Open Source & impactful projects<br>
 💬 Ask me about Python, Django, APIs, and DevOps workflows<br>
 📫 Reach me at: gmzulkar@gmail.com<br>
-🌐 Portfolio: [zulkarnine.xyz](https://zulkarnine.xyz)
+🌐 Portfolio: [iamzulkar.site](https://iamzulkar.site)
 
 
 
